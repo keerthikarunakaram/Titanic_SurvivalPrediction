@@ -8,8 +8,6 @@ While there was some element of luck involved in surviving, it seems some groups
 
 We need to build a predictive model that answers the question: “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
 
-This dataset has been referred from Kaggle: https://www.kaggle.com/c/titanic/data.
-
 Machine Learning Models Used:
 1. Logistic Regression
 2. K fold Method cross validation
